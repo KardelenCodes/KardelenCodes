@@ -9,7 +9,7 @@ Besides coding, I enjoy cooking and taking care of my plants.🌿🌿
 I’m really happy to share what I learn with others and see them get better.🫰🏽 That’s why I try to spend as much time as possible on my [blog](https://medium.com/@KardelenCodes).  
 
 
-#Tech Stack
+# 💻 Tech Stack
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
